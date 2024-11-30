@@ -6,7 +6,7 @@ class App extends React.Component {
     return (
       <div>
         <Counter diff={1} />
-        <Counter diff={10} />
+      
       </div>
     );
   }
